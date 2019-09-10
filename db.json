@@ -2,9 +2,6 @@
     "Id":"2EAEC63A-BCD5-4B68-9546-F4B0063451E2",
     "Name":"Default",
     "Title":"Default",
-    "Active":true,
-    "Default":true,
-    "Custom":false,
     "tiles":[
       {
         "Id":"28017297-577E-42C1-8783-04BA72055F82",
